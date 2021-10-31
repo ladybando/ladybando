@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on an application for Android that displays dog images!
-- 🌱 I’m currently learning Android with Kotlin
+- 🌱 I’m learning Android with Kotlin and want to learn Python
 - 👯 I’m looking to collaborate on any new projects to build skills
 - 🤔 I’m looking for help with Machine Learning and Robotics
 - 📫 How to reach me: [Twitter](https://twitter.com/ladybando), bandoaya@gmail.com
