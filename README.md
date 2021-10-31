@@ -1,5 +1,7 @@
 ### Hi there 👋🏿
-![Mandalorian and The Child](https://images.app.goo.gl/J6CxU2oQvmK3rcgt6)
+![Mandalorian and The Child](https://github.com/ladybando/ladybando/blob/main/8E9092B3-3F73-4EB8-A292-C7AFA836DEF3.jpeg?raw=true)
+
+courtesy of https://wallpaperaccess.com/mandalorian-and-baby-yoda
 
 
 - 🔭 I’m currently working on an application for Android that displays dog images!
